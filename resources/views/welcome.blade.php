@@ -91,7 +91,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-image: url('club-alianza-lima-flag-seamless-looping-background-looped-bump-texture-cloth-waving-slow-motion-3d-rendering-free-video.jpg');
+            background-image: url('https://th.bing.com/th/id/OIP.GJASTe8s37cJmuLBxtEi7gHaE8?rs=1&pid=ImgDetMain');
             background-size: cover;
             background-position: center;
             animation: zoomEffect 20s infinite alternate;
@@ -538,7 +538,7 @@
 
     <div class="container">
         <header>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_del_Club_Alianza_Lima.svg/800px-Escudo_del_Club_Alianza_Lima.svg.png" alt="Logo Alianza Lima" class="logo">
+            <img src="https://th.bing.com/th/id/OIP.oBHlGA_aTfr4YDtPR-wAdAFiFi?rs=1&pid=ImgDetMain" alt="Logo Alianza Lima" class="logo">
             
             <nav>
                 <ul>
@@ -594,7 +594,7 @@
                     <p>A lo largo de sus <?= $years ?> años de existencia, el club ha pasado por momentos de gran gloria y también por tragedias que han forjado su carácter y aumentado la pasión de sus seguidores. Entre ellas, el accidente aéreo de 1987, que marcó a toda una generación de peruanos.</p>
                 </div>
                 <div class="history-image animate-on-scroll">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Estadio_Alejandro_Villanueva.jpg/800px-Estadio_Alejandro_Villanueva.jpg" alt="Estadio Alejandro Villanueva">
+                    <img src="https://cdn.futbolperuano.com/sdi/2022/11/18/alianza-lima-planea-ampliar-el-estadio-alejandro-villanueva-1087279.jpg" alt="Estadio Alejandro Villanueva">
                 </div>
             </div>
         </section>
@@ -606,7 +606,7 @@
                 // Array simulado de imágenes (en un caso real vendrían de una base de datos)
                 $gallery_images = [
                     ["url" => "https://www.rcrperu.com/wp-content/uploads/2022/02/YFUYIYI.jpg", "title" => "Equipo Histórico", "description" => "Alineación histórica de Alianza Lima"],
-                    ["url" => "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Comando_Sur_%28Alianza_Lima%29.jpg/800px-Comando_Sur_%28Alianza_Lima%29.jpg", "title" => "Hinchada", "description" => "La fiel hinchada aliancista"],
+                    ["url" => "https://th.bing.com/th/id/OIP._bip5m5mMTFaul_QMFnmywHaD_?rs=1&pid=ImgDetMain", "title" => "Hinchada", "description" => "La fiel hinchada aliancista"],
                     ["url" => "https://1.bp.blogspot.com/-BDxioaAhJtY/UFljuviLFwI/AAAAAAAAGlw/vi4peRIwNpA/s1600/EscudoAL.gif", "title" => "Escudo", "description" => "El emblemático escudo del club"],
                     ["url" => "https://th.bing.com/th/id/R.86400887d8a2c9d38bf8b4bbd6a8764f?rik=oLfrf1sEjP2qVw&pid=ImgRaw&r=0", "title" => "Estadio", "description" => "El estadio Alejandro Villanueva, 'Matute'"]
                 ];
