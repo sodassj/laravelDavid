@@ -605,10 +605,10 @@
                 <?php
                 // Array simulado de imágenes (en un caso real vendrían de una base de datos)
                 $gallery_images = [
-                    ["url" => "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Alianza_Lima_1987.jpg/800px-Alianza_Lima_1987.jpg", "title" => "Equipo Histórico", "description" => "Alineación histórica de Alianza Lima"],
+                    ["url" => "https://www.rcrperu.com/wp-content/uploads/2022/02/YFUYIYI.jpg", "title" => "Equipo Histórico", "description" => "Alineación histórica de Alianza Lima"],
                     ["url" => "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Comando_Sur_%28Alianza_Lima%29.jpg/800px-Comando_Sur_%28Alianza_Lima%29.jpg", "title" => "Hinchada", "description" => "La fiel hinchada aliancista"],
-                    ["url" => "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_del_Club_Alianza_Lima.svg/800px-Escudo_del_Club_Alianza_Lima.svg.png", "title" => "Escudo", "description" => "El emblemático escudo del club"],
-                    ["url" => "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Estadio_Alejandro_Villanueva.jpg/800px-Estadio_Alejandro_Villanueva.jpg", "title" => "Estadio", "description" => "El estadio Alejandro Villanueva, 'Matute'"]
+                    ["url" => "https://1.bp.blogspot.com/-BDxioaAhJtY/UFljuviLFwI/AAAAAAAAGlw/vi4peRIwNpA/s1600/EscudoAL.gif", "title" => "Escudo", "description" => "El emblemático escudo del club"],
+                    ["url" => "https://th.bing.com/th/id/R.86400887d8a2c9d38bf8b4bbd6a8764f?rik=oLfrf1sEjP2qVw&pid=ImgRaw&r=0", "title" => "Estadio", "description" => "El estadio Alejandro Villanueva, 'Matute'"]
                 ];
                 
                 foreach ($gallery_images as $index => $image) {
@@ -641,7 +641,7 @@
                     </ul>
                 </div>
                 <div class="history-image animate-on-scroll">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Alianza_Lima_1987.jpg/800px-Alianza_Lima_1987.jpg" alt="Equipo histórico de Alianza Lima">
+                    <img src="https://www.rcrperu.com/wp-content/uploads/2022/02/YFUYIYI.jpg" alt="Equipo histórico de Alianza Lima">
                 </div>
             </div>
         </section>
@@ -649,7 +649,7 @@
         <footer id="contacto">
             <div class="footer-content">
                 <div class="footer-logo">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_del_Club_Alianza_Lima.svg/800px-Escudo_del_Club_Alianza_Lima.svg.png" alt="Logo Alianza Lima">
+                    <img src="https://th.bing.com/th/id/OIP.oBHlGA_aTfr4YDtPR-wAdAFiFi?rs=1&pid=ImgDetMain">
                     <p>El equipo del pueblo</p>
                 </div>
                 
